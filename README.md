@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Idha Merouane
-- 🌱 I’m currently learning Data Analytics & AI
+- 🌱 I’m currently Data Analytics & AI Student
 - 📫 How to reach me merouaneidha@gmail.com
 
